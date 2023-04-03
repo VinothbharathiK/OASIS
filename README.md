@@ -1,2 +1,1 @@
-# OASIS
-sample landing page
+OIBSIP_Landing_page
